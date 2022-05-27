@@ -1,0 +1,2 @@
+# winpci
+lspci for windows
